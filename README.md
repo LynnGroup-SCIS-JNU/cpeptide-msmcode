@@ -8,8 +8,8 @@ pH dependent state transition of c-peptide and evaluation of conformations on FE
 The single code is splitted into 5 sections for detailed analysis which includes
 1. Data preprocessing 
 2. Fel construction for all pH and temperature simulated trajectories
-3. Population quantification on fel
-4. pH dependent distribution of conformation on FEL
+3. Population quantification into energy basin
+4. pH dependent distribution of conformation 
 5. Tracing path of pH dependent trajectories on FEL 
 
 Execute the cpeptide.py to perform the analysis and find out the distribution of congormation on FEL.
