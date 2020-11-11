@@ -15,14 +15,21 @@ The trajectory are *.nc and initial conformation is s.pdb.
 - python libraries
 
 ## *Reference for the previous information encouraged to current analysis*
-- 1.https://www.biorxiv.org/content/10.1101/084020v2.full or https://github.com/msmbuilder/paper
-- 2.https://pubs.acs.org/doi/10.1021/jp401587e or http://scaledmd.ucsd.edu/
- 
+- https://www.biorxiv.org/content/10.1101/084020v2.full 
+- https://pubs.acs.org/doi/10.1021/jp401587e  
+- https://github.com/msmbuilder/paper
+- http://scaledmd.ucsd.edu/
+
 Execute the cpeptide.py to perform the analysis and find out the distribution of congormation on FEL.
 
 The single code is splitted into 5 sections for detailed analysis which includes
-1. data preprocessing 
-2. common fel construction of all pH and temperature simulated trajectories
-3. quantification of conformation on fel
-4. quantification of pH dependent conformations on FEL
-5. tracing path of pH dependent trajectories on FEL. 
+1. Data preprocessing 
+2. Common fel construction of all pH and temperature simulated trajectories
+3. Quantification of conformation on fel
+4. Quantification of pH dependent conformations on FEL
+5. Tracing path of pH dependent trajectories on FEL. 
+
+## Contact Information
+For further details and bugs feel free to write  
+- *Ruhar*,  ruhar63_sit@jnu.ac.in 
+- *Andrew Lynn*, andrew@jnu.ac.in
