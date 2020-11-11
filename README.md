@@ -17,7 +17,7 @@ Execute the cpeptide.py to perform the analysis and find out the distribution of
 python cpeptide.py
 ```
 
-## Package content 
+## *Package content* :
 - Dataset :  trajectories *.nc & intial conformation s.pdb.
 - Results : msm_mdl.pkl & *.png
 - Analysis code : cpeptide.py
@@ -29,7 +29,7 @@ python cpeptide.py
 - python v3.7 
 - python libraries
 
-## Installation
+## *Installation* :
 ```
  bash Miniconda3-latest-Linux-x86_64.sh
  conda install -c omnia msmbuilder
@@ -39,13 +39,13 @@ python cpeptide.py
  conda install package-name
 ```
 
-## *Reference for the previous information encouraged to current analysis*
+## *Reference for the previous information encouraged to current analysis* :
 - https://www.biorxiv.org/content/10.1101/084020v2.full 
 - https://pubs.acs.org/doi/10.1021/jp401587e  
 - https://github.com/msmbuilder/paper
 - http://scaledmd.ucsd.edu/
 
-## Contact Information
+## *Contact Information* :
 For further details and bugs feel free to write  
 - *Ruhar*,  ruhar63_sit@jnu.ac.in 
 - *Andrew Lynn*, andrew@jnu.ac.in
