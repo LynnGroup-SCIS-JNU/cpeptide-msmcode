@@ -1,12 +1,13 @@
 ![Alt text](Results/C-peptide.jpg?raw=true "Title")
 
-# **C-Peptide-MSMCode** : Temperature and pH dependent MD simulation Analysis of C-peptide.
+# **C-Peptide-MSMCode**  
+## Temperature and pH dependent MD simulation Analysis of C-peptide.
 
 pH dependent state transition of c-peptide and evaluation of conformations on FEL at various temperature.
 
 The single code is splitted into 5 sections for detailed analysis which includes
 1. Data preprocessing 
-2. Common fel construction of all pH and temperature simulated trajectories
+2. Common fel construction of all pH and temperatu:re simulated trajectories
 3. Quantification of conformation on fel
 4. Quantification of pH dependent conformations on FEL
 5. Tracing path of pH dependent trajectories on FEL. 
