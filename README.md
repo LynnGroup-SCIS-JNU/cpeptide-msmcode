@@ -21,8 +21,8 @@ The trajectory are *.nc and initial conformation is s.pdb.
 Execute the cpeptide.py to perform the analysis and find out the distribution of congormation on FEL.
 
 The single code is splitted into 5 sections for detailed analysis which includes
-- 1. data preprocessing 
-- 2. common fel construction of all pH and temperature simulated trajectories
-- 3. quantification of conformation on fel
-- 4. quantification of pH dependent conformations on FEL
-- 5. tracing path of pH dependent trajectories on FEL. 
+1. data preprocessing 
+2. common fel construction of all pH and temperature simulated trajectories
+3. quantification of conformation on fel
+4. quantification of pH dependent conformations on FEL
+5. tracing path of pH dependent trajectories on FEL. 
