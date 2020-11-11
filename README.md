@@ -1,6 +1,6 @@
 # **cpeptide-msmcode**
 
-#README for pH dependent state transition of c-peptide and evaluation of conformations on FEL at various temperature.
+pH dependent state transition of c-peptide and evaluation of conformations on FEL at various temperature.
 For further details and bugs contact Ruhar, PhD@JNU and Andrew Lynn, Prof@JNU. 
 (ruhar63_sit@jnu.ac.in and andrew@jnu.ac.in)
 
