@@ -10,7 +10,7 @@ The single code is splitted into 5 sections for detailed analysis which includes
 2. Fel construction for all pH and temperature simulated trajectories
 3. Population quantification on fel
 4. pH dependent distribution of conformation on FEL
-5. Tracing path of pH dependent trajectories on FEL. 
+5. Tracing path of pH dependent conformations on FEL 
 
 Execute the cpeptide.py to perform the analysis and find out the distribution of congormation on FEL.
 ```
