@@ -39,12 +39,6 @@ python cpeptide.py
  conda install package-name
 ```
 
-## *Reference for the previous information encouraged to current analysis* :
-- https://www.biorxiv.org/content/10.1101/084020v2.full 
-- https://pubs.acs.org/doi/10.1021/jp401587e  
-- https://github.com/msmbuilder/paper
-- http://scaledmd.ucsd.edu/
-
 ## *Contact Information* :
 For further details and bugs feel free to write  
 - *Ruhar*,  ruhar63_sit@jnu.ac.in 
