@@ -15,7 +15,7 @@ The single code is splitted into 5 sections for detailed analysis which includes
 - Analysis code for temperature and pH dependent MD simulation of C-peptide.
 The trajectory are *.nc and initial conformation is s.pdb.
 
-## *Supporting softwares* :
+## *Dependencies* 
 - MSMBuilder
 - MdTraj
 - conda
