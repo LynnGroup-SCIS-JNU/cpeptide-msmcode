@@ -1,10 +1,18 @@
 # **cpeptide-msmcode**
 
 pH dependent state transition of c-peptide and evaluation of conformations on FEL at various temperature.
-For further details and bugs contact Ruhar, PhD@JNU and Andrew Lynn, Prof@JNU. 
-(ruhar63_sit@jnu.ac.in and andrew@jnu.ac.in)
 
-This folder includes dataset, example results and analysis code for temperature and pH dependent MD simulation of C-peptide.
+The single code is splitted into 5 sections for detailed analysis which includes
+1. Data preprocessing 
+2. Common fel construction of all pH and temperature simulated trajectories
+3. Quantification of conformation on fel
+4. Quantification of pH dependent conformations on FEL
+5. Tracing path of pH dependent trajectories on FEL. 
+
+## Package content 
+- Dataset
+- Results 
+- Analysis code for temperature and pH dependent MD simulation of C-peptide.
 The trajectory are *.nc and initial conformation is s.pdb.
 
 ## *Supporting softwares* :
@@ -22,12 +30,6 @@ The trajectory are *.nc and initial conformation is s.pdb.
 
 Execute the cpeptide.py to perform the analysis and find out the distribution of congormation on FEL.
 
-The single code is splitted into 5 sections for detailed analysis which includes
-1. Data preprocessing 
-2. Common fel construction of all pH and temperature simulated trajectories
-3. Quantification of conformation on fel
-4. Quantification of pH dependent conformations on FEL
-5. Tracing path of pH dependent trajectories on FEL. 
 
 ## Contact Information
 For further details and bugs feel free to write  
