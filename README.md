@@ -12,7 +12,7 @@ The single code is splitted into 5 sections for detailed analysis which includes
 5. Tracing path of pH dependent trajectories on FEL. 
 
 Execute the cpeptide.py to perform the analysis and find out the distribution of congormation on FEL.
-python cpeptide.py
+- python cpeptide.py
 
 ## Package content 
 - Dataset : includes trajectories *.nc and intial conformation s.pdb.
@@ -20,8 +20,8 @@ python cpeptide.py
 - Analysis code 
 
 ## *Dependencies* 
-- MSMBuilder
-- MdTraj
+- [MSMBuilder v3.8] (http://msmbuilder.org/3.8.0/)
+- MdTraj v1.9.4
 - conda
 - python v3.7 
 - python libraries
