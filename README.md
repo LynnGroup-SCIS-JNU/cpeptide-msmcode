@@ -32,10 +32,10 @@ python cpeptide.py
 ## *Installation* :
 ```
  bash Miniconda3-latest-Linux-x86_64.sh
- conda install -c omnia msmbuilder
- conda install -c conda-forge mdtraj
  conda create -n myenv python=3.7
  source activate myenv
+ conda install -c omnia msmbuilder
+ conda install -c conda-forge mdtraj
  conda install package-name
 ```
 
