@@ -1,9 +1,10 @@
 # **C-Peptide-MSMCode**  
-## Temperature and pH dependent MD simulation Analysis of C-peptide.
+## Temperature and pH dependent MD simulation and Analysis of C-peptide.
 
 ![Alt text](Results/C-peptide.jpg?raw=true "Title")
 
-### To predict pH-dependent transition of conformations at various temperature using Markov state models on a standard free energy surface 
+## *Overview* :
+To predict pH-dependent transition of conformations at various temperature using Markov state models on a standard free energy surface 
 The code splits into 5 sections 
 1. Data preprocessing 
 2. Fel construction 
