@@ -3,14 +3,13 @@
 
 ![Alt text](Results/C-peptide.jpg?raw=true "Title")
 
-pH dependent state transition of c-peptide and evaluation of conformations on FEL at various temperature.
-
-The single code is split into 5 sections for detailed analysis which includes
+### To predict pH-dependent transition of conformations at various temperature using Markov state models on a standard free energy surface 
+The code splits into 5 sections 
 1. Data preprocessing 
-2. Fel construction for all pH and temperature simulated trajectories
-3. Population quantification into energy basin
-4. pH dependent distribution of conformation 
-5. Tracing path of pH dependent trajectories on FEL 
+2. Fel construction 
+3. Population quantification 
+4. pH dependent conformation distribution 
+5. Tracing path of trajectories 
 
 Execute the cpeptide.py to perform the analysis and find out the distribution of congormation on FEL.
 ```
