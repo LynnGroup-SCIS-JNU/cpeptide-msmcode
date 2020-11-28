@@ -1,5 +1,4 @@
-# **C-Peptide-MSMCode**  
-## Temperature and pH dependent MD simulation and Analysis of C-peptide.
+# **Temperature and pH dependent MD simulation and Analysis of C-peptide**
 
 ![Alt text](Results/C-peptide.jpg?raw=true "Title")
 
@@ -13,7 +12,7 @@ The code splits into 5 section
 4. pH dependent conformation distribution 
 5. Tracing path of trajectories 
 
-Execute the cpeptide.py to perform the analysis and find out the distribution of congormation on FEL.
+Execute the cpeptide.py to perform the analysis and find out the distribution of conformation on FEL.
 ```
 python cpeptide.py
 ```
