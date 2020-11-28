@@ -5,7 +5,8 @@
 
 ## *Overview* :
 To predict pH-dependent transition of conformations at various temperature using Markov state models on a standard free energy surface 
-The code splits into 5 sections 
+
+The code splits into 5 section 
 1. Data preprocessing 
 2. Fel construction 
 3. Population quantification 
