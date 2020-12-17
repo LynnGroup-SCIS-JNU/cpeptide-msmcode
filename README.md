@@ -1,4 +1,4 @@
-# **Temperature and pH dependent MD simulation and Analysis of C-peptide**
+# **Standardizing a Protocol for Studying pH-dependent Transient Conformations using Computer Simulations**
 
 ![Alt text](Results/C-peptide.jpg?raw=true "Title")
 
